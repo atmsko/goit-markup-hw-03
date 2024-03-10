@@ -66,7 +66,7 @@ img {
  } 
 
   
-.logo {
+.header-logo {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;;
     font-weight: 700;
@@ -76,16 +76,24 @@ img {
     text-transform: uppercase;
     display: flex;
   align-items: center;
+  margin-right: 76px;
 }
 .logo-part {
-    color: #2E2F42;;
-}   
+    color: #2E2F42;
+    margin-right: 76px;
+    
+}  
+.header-menu-list {
+    display: flex;
+    gap: 40px;
+} 
 .nav-link { 
     color: #2E2F42; 
     font-size: 16px; 
     font-weight: 500; 
     line-height: 1.5; 
-    letter-spacing: 0.02em; 
+    letter-spacing: 0.02em;
+    display: flex; 
 } 
 .nav-link:hover, .nav-link:focus { 
     color: #404BBF; 
