@@ -120,6 +120,8 @@ img {
 .slogan {
 
     background-color: #2E2F42;
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 .slogan-title {
     font-weight: 700;
@@ -128,6 +130,7 @@ img {
     letter-spacing: 0.02em ;
     text-align: center ;
     color: #FFFFFF;
+    max-width: 496px;
 }
 .slogan-bt {
     background-color: #4D5AE5 ;
@@ -135,6 +138,13 @@ img {
     line-height: 1.5 ;
     letter-spacing: 0.04em ;
     color: #ffffff ;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
 
 }
 .slogan-bt:hover, .slogan-bt:focus {
