@@ -77,8 +77,7 @@ img {
     display: flex;
   align-items: center;
   margin-right: 76px;
-  padding-top: 24px;
-  padding-bottom: 24px;
+  
   
 }
 .logo-part {
@@ -96,6 +95,8 @@ img {
     letter-spacing: 0.02em;
     display: flex; 
     gap: 40px;
+    padding-top: 24px;
+  padding-bottom: 24px;
 } 
 .nav-link:hover, .nav-link:focus { 
     color: #404BBF; 
