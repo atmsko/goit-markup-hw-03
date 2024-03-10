@@ -32,19 +32,6 @@ address {
 img {
     display: block;
 }
-.header {
-    border-bottom: 1px solid #e7e9fc;
-}
-.header-container {
-    display: flex;
-  }
- .header-navigation {
-    display: flex;
-  align-items: center;
-  flex-grow: 1;
-  justify-content: space-between;
-  margin-right: 90px;
- } 
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -64,6 +51,20 @@ img {
     padding-right: 15px;
     margin: 0 auto;
   }
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+.header-container {
+    display: flex;
+  }
+ .header-navigation {
+    display: flex;
+  align-items: center;
+  flex-grow: 1;
+  justify-content: space-between;
+  margin-right: 90px;
+ } 
+
   
 .logo {
     color: #4D5AE5;
@@ -73,6 +74,8 @@ img {
     line-height: 1.17;
     letter-spacing: 0.03em; 
     text-transform: uppercase;
+    display: flex;
+  align-items: center;
 }
 .logo-part {
     color: #2E2F42;;
