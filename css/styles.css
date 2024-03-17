@@ -224,6 +224,10 @@ img {
     color: #434455 ;
     text-align: center;
 }
+.portfolio {
+    padding-top: 120px; 
+    padding-bottom: 120px; 
+}
 .portfolio-title {
     font-size: 36px ;
     line-height: 1.11 ;
