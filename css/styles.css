@@ -176,7 +176,8 @@ img {
     color: #434455 ;
 }
 .features-item {
-    flex-basis: calc((100%-72px)/4);
+    width: calc((100%-72px)/4);
+    flex-basis: calc((100%-3*24px) / 4);
 }
 .team {
     background-color: #F4F4FD;
@@ -186,6 +187,8 @@ img {
 .team-list {
     display: flex;
     gap: 24px;
+    padding-left: 18px;
+    padding-right: 18px;
 }
 .team-title {
     margin-bottom: 72px;
