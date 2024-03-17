@@ -184,17 +184,6 @@ img {
     padding-top: 120px;
     padding-bottom: 120px
 }
-.team-container {
-    padding-top: 32px;
-    padding-bottom: 32px;
-}
-.team-list {
-    display: flex;
-    gap: 24px;
-    padding-left: 18px;
-    padding-right: 18px;
-    width: calc((100% - 72px) / 4);
-}
 .team-title {
     margin-bottom: 72px;
     font-size: 36px ;
@@ -204,9 +193,20 @@ img {
     text-transform: capitalize ;
     color: #2e2f42 ;
 }
+.team-list {
+    display: flex;
+    gap: 24px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
 .team-fon {
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
+    width: calc((100% - 72px) / 4);
+}
+.team-container {
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 .team-name {
     font-weight: 500 ;
