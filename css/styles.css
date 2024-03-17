@@ -150,8 +150,8 @@ img {
 .slogan-bt:hover, .slogan-bt:focus {
     background-color: #404BBF;
 }
-.container {
-
+.visually-hidden {
+    
 }
 .features {
     background-color: #ffffff;
