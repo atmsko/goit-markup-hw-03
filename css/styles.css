@@ -157,7 +157,6 @@ img {
     gap: 24px;
     padding-left: 18px;
     padding-right: 18px;
-    width: calc((100% - 72px) / 4);
   }
 .features-item {
     width: calc((100% - 72px) / 4);
@@ -169,6 +168,7 @@ img {
     letter-spacing: 0.02em ;
     color: #2e2f42;
     margin-bottom: 8px;
+    width: calc((100% - 72px) / 4);
 }
 .features-title-prf {
     font-size: 16px ;
