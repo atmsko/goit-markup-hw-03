@@ -174,13 +174,10 @@ img {
     letter-spacing: 0.02em ;
     color: #434455 ;
 }
-<<<<<<< HEAD
-=======
 .features-item {
     width: calc((100%-72px)/4);
     /* flex-basis: calc((100%-3*24px) / 4); */
 }
->>>>>>> parent of 1a41597 (1703242022)
 .team {
     background-color: #F4F4FD;
     padding-top: 120px;
