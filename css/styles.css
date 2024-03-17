@@ -199,11 +199,11 @@ img {
     padding-left: 18px;
     padding-right: 18px;
 }
-.team-fon {
+.team-item {
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
-    width: calc((100% - 72px) / 4);
-    /* flex-basis: calc((100% - 72px) / 4); */
+    /* width: calc((100% - 72px) / 4); */
+    flex-basis: calc((100% - 72px) / 4);
 }
 .team-container {
     padding-top: 32px;
@@ -245,7 +245,8 @@ img {
     row-gap: 48px; 
 }
 .portfolio-item {
-    width: calc((100% - 48px) / 3); 
+    /* width: calc((100% - 48px) / 3);  */
+    flex-basis: calc((100% - 72px) / 4);
 }
 .portfolio-container {
     padding: 32px 16px; 
