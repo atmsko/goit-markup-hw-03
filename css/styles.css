@@ -150,15 +150,14 @@ img {
 .slogan-bt:hover, .slogan-bt:focus {
     background-color: #404BBF;
 }
-.visually-hidden {
-    
-}
 .features {
     background-color: #ffffff;
     padding-top: 120px;
     padding-bottom: 120px;
 }
 .features-title {
+    display: flex;
+    gap: 24px; 
     font-weight: 500 ;
     font-size: 20px ;
     line-height: 1.2 ;
@@ -173,7 +172,7 @@ img {
     color: #434455 ;
 }
 .features-item {
-    flex-basis: calc((100%-3*24px)/4);
+    flex-basis: calc((100%-72px)/4);
 }
 .team {
     background-color: #F4F4FD;
