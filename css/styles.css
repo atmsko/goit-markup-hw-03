@@ -193,7 +193,7 @@ img {
     gap: 24px;
     padding-left: 18px;
     padding-right: 18px;
-    
+    width: calc((100% - 72px) / 4);
 }
 .team-title {
     margin-bottom: 72px;
@@ -203,7 +203,6 @@ img {
     letter-spacing: 0.02em ;
     text-transform: capitalize ;
     color: #2e2f42 ;
-    width: calc((100% - 72px) / 4);
 }
 .team-fon {
     background-color: #FFFFFF;
