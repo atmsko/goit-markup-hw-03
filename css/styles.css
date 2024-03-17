@@ -180,8 +180,15 @@ img {
 }
 .team {
     background-color: #F4F4FD;
+    padding-top: 120px;
+    padding-bottom: 120px
+}
+.team-list {
+    display: flex;
+    gap: 24px;
 }
 .team-title {
+    margin-bottom: 72px;
     font-size: 36px ;
     line-height: 1.11 ;
     text-align: center ;
