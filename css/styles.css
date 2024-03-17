@@ -89,6 +89,7 @@ img {
     display: block; 
     padding-top: 24px;
   padding-bottom: 24px;
+  display: flex;
 } 
 .nav-link:hover, .nav-link:focus { 
     color: #404BBF; 
@@ -96,7 +97,7 @@ img {
 .address { 
     font-style: normal;
     margin-left: auto;
-    /* display: flex; */
+    display: flex;
 } 
 .address-list {
     display: flex;
