@@ -193,8 +193,8 @@ img {
 .team-list {
     display: flex;
     gap: 24px;
-    padding-left: 18px;
-    padding-right: 18px;
+    /* padding-left: 18px; */
+    /* padding-right: 18px; */
 }
 .team-item {
     background-color: #FFFFFF;
