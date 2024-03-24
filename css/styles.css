@@ -122,12 +122,12 @@ img {
     background-color: #2E2F42;
     width: 1440px;
     height: 600px;
-    padding: 16px 32px 16px 32px;
-    /* padding-top: 188px; */
-    /* padding-bottom: 188px; */
-    /* align-items: center; */
-    justify-content: center;
-    text-align: center;
+    /* padding: 16px 32px 16px 32px; */
+    padding-top: 188px;
+    padding-bottom: 188px;
+    align-items: center;
+    /* justify-content: center; */
+    /* text-align: center; */
 }
 .slogan-title {
     font-weight: 700;
@@ -137,6 +137,7 @@ img {
     text-align: center ;
     color: #FFFFFF;
     max-width: 496px;
+    padding-bottom: 68px;
     /* text-align: center ; */
     /* align-items: center; */
 }
