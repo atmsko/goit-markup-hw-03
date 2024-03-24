@@ -121,13 +121,10 @@ img {
 .slogan {
     background-color: #2E2F42;
     width: 1440px;
-    /* height: 600px; */
     padding-left: 472px;
     padding-top: 188px;
     padding-bottom: 188px;
     align-items: center;
-    /* justify-content: center; */
-    /* text-align: center; */
 }
 .slogan-title {
     font-weight: 700;
@@ -138,8 +135,6 @@ img {
     color: #FFFFFF;
     max-width: 496px;
     padding-bottom: 56px;
-    /* text-align: center ; */
-    /* align-items: center; */
 }
 .slogan-bt {
     background-color: #4D5AE5 ;
@@ -172,7 +167,6 @@ img {
     /* padding-right: 18px; */
   }
 .features-item {
-    /* width: calc((100% - 72px) / 4); */
     width: calc((100% - 3 * 24px) / 4);
 }
 .features-title {
@@ -213,7 +207,6 @@ img {
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
     width: calc((100% - 72px) / 4);
-    /* flex-basis: calc((100% - 72px) / 4); */
 }
 .team-container {
     padding-top: 32px;
