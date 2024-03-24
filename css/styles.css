@@ -99,6 +99,7 @@ img {
     font-style: normal;
     margin-left: auto;
     display: flex;
+    align-items: center;
 } 
 .address-list {
     display: flex;
