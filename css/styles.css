@@ -122,7 +122,8 @@ img {
     background-color: #2E2F42;
     padding-top: 188px;
     padding-bottom: 188px;
-    align-items: center;
+    /* align-items: center; */
+    text-align: center;
 }
 .slogan-title {
     font-weight: 700;
@@ -132,8 +133,8 @@ img {
     text-align: center ;
     color: #FFFFFF;
     max-width: 496px;
-    text-align: center ;
-    align-items: center;
+    /* text-align: center ; */
+    /* align-items: center; */
 }
 .slogan-bt {
     background-color: #4D5AE5 ;
