@@ -121,7 +121,8 @@ img {
 .slogan {
     background-color: #2E2F42;
     width: 1440px;
-    height: 600px;
+    /* height: 600px; */
+    padding-left: 472px;
     padding-top: 188px;
     padding-bottom: 188px;
     align-items: center;
@@ -136,7 +137,7 @@ img {
     text-align: center ;
     color: #FFFFFF;
     max-width: 496px;
-    padding-bottom: 68px;
+    padding-bottom: 56px;
     /* text-align: center ; */
     /* align-items: center; */
 }
@@ -153,7 +154,8 @@ img {
     background-color: #4d5ae5;
     border-radius: 4px;
     cursor: pointer;
-    /* align-items: center; */
+    align-items: center;
+    margin-left: 164px;
 }
 .slogan-bt:hover, .slogan-bt:focus {
     background-color: #404BBF;
