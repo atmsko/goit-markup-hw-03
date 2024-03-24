@@ -122,6 +122,7 @@ img {
     background-color: #2E2F42;
     padding-top: 188px;
     padding-bottom: 188px;
+    align-items: center;
 }
 .slogan-title {
     font-weight: 700;
@@ -146,6 +147,7 @@ img {
     background-color: #4d5ae5;
     border-radius: 4px;
     cursor: pointer;
+    /* align-items: center; */
 }
 .slogan-bt:hover, .slogan-bt:focus {
     background-color: #404BBF;
