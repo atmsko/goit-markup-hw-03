@@ -133,6 +133,7 @@ img {
     color: #FFFFFF;
     max-width: 496px;
     text-align: center ;
+    align-items: center;
 }
 .slogan-bt {
     background-color: #4D5AE5 ;
